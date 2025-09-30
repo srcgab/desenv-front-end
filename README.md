@@ -32,7 +32,7 @@ A estrutura foi pensada para ser o mais intuitiva possível:
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
 Aqui está a lista de projetos que vamos desenvolver. Comece pelo primeiro e siga a ordem para uma melhor progressão de aprendizado.
 
@@ -47,7 +47,7 @@ Dentro de cada pasta de projeto você encontrará:
 
 * Uma pasta vanilla-js/: Contém os arquivos index.html e style.css prontos para começar a praticar. O script.js estará lá, mas vazio, esperando seu código.
 
-## 🚀 Como Começar a Estudar?
+## Como Começar a Estudar?
 * Entenda o Git (Opcional, mas recomendado): Se você não tem familiaridade com Git e GitHub, dê uma olhada no nosso guia prático:  [**Git e GitHub**](./README_GIT.md)
 
 * Escolha um Projeto: Navegue até a pasta projetos e escolha por qual projeto você quer começar. 
