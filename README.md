@@ -25,8 +25,8 @@ A estrutura foi pensada para ser o mais intuitiva possível:
 ├── README-GIT.md           <-- Um guia para entender Git e GitHub.
 │
 └─── /projetos/             <-- Pasta com todos os projetos práticos.
-    ├── /01-lista-de-tarefas/
-    ├── /02-calculadora-simples/
+    ├── /01-lista-tarefas/
+    ├── /02-calculadora/
     └── ... e assim por diante
 ```
 
