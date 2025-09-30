@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Test List</title>
+</head>
+<body>
+    <div class="container">
+        <h1 id="listTitle">Lista de Tarefas</h1>
+        <div class="section-input">
+            <input type="text" id="taskInput" placeholder="Adicione uma nova tarefa">
+            <button id="addTaskBtn">+</button>
+        </div>
+        <ul id="taskList">
+            <!-- <li class="listItem">
+                    <input type="checkbox" id="task-1">
+                    <label for="task-1">Tarefa 1</label>
+                    <button class="deleteBtn">x</button>
+                <p class="dateInfo">Criada em: Segunda-feira (01/01/23)</p>
+            </li> -->
+        </ul>
+
+        <div id="completedTasks">
+            <p>Tarefas Completas</p>
+            <ul id="completedTasksList">
+                <!-- <li class="listItem">
+                        <input type="checkbox" id="task-2" checked>
+                        <label for="task-2">Tarefa 2</label>
+                        <button class="deleteBtn">x</button>
+                    <p class="dateInfo">Completo em: Segunda-feira (01/01/23)</p>
+                </li> -->
+            </ul>
+            <button id="clearCompletedBtn">Limpar Todas as Tarefas Completas</button>
+        </div>
+
+
+        <img src="./assets/sem-tarefas.png" alt="Sem Tarefas" id="noTasksImage">
+
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html> 
